@@ -1,0 +1,65 @@
+body{
+    background-color:pink;
+}
+
+#parte_superior{
+    width: 1000px;
+    height: 280px;
+    background-color: rgb(174, 0, 255);
+}
+
+#tudo{
+    width:1000px;
+    height:1000px;
+    margin: 0 auto;
+    border-width: 5px;
+   border-style: dotted;
+    border-color: #7f29b9;
+    background-color: #dbafd5;
+
+}
+
+#logo{
+    width: 100%;
+    height:40px;
+    background-color: #73003c;
+}
+
+#menu{
+    height: 64px;
+    width: 100%;
+    background-color: white;
+}
+
+#publicidade{
+    height: 150px;
+    width: 98%;
+    background-color: white;
+    border-width: 10px;
+    border-style: solid;
+    border-color:violet;
+}
+
+.logo{
+    display: inline-block;
+    text-align: center;
+}
+
+#titulo{
+    height: 30px;
+    width: 100%;
+    background-color:rgb(238, 104, 238);;
+}
+
+#conteudo{
+    height: 600px;
+    width: 100%;
+    background-color: white;
+}
+
+
+#pe{
+    height: 90px;
+    width: 100%;
+    background-color: rgb(3, 3, 3);
+}

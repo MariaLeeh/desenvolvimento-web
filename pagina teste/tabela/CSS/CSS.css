@@ -1,0 +1,44 @@
+body{
+    background-color: white;
+}
+
+.amarelo{
+        background-color: yellow;
+}
+
+.rosa{
+    background-color: pink;
+}
+
+.violeta{
+    background-color: violet;
+}
+
+.azulclaro{
+    background-color: rgb(0, 132, 255);
+}
+
+.verde{
+    background-color: green;
+}
+
+.laranja{
+    background-color: orange;
+}
+
+.azul{
+    background-color: blue;
+}
+
+.azulturquesa{
+    background-color: turquoise;
+}
+
+.azulesverdeado{
+    background-color: teal;
+}
+
+.azulceu{
+    background-color: skyblue;
+}
+
